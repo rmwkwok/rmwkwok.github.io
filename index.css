@@ -1,0 +1,27 @@
+
+body {
+    text-align: center;
+    margin: 0px;
+    background-size: 100%;
+}
+
+.welcome {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    box-shadow: 0px 0px 10px 2px black;
+}
+
+.items {
+    background-color: white;
+    color: black;
+    box-shadow: 0px 0px 10px 2px black;
+    padding: 10px;
+    margin: 300px 50px 50px 50px;
+}
+
+.item {
+    margin: 70px;
+}
+
+
